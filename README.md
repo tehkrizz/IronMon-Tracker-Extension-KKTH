@@ -30,7 +30,9 @@ Check the wiki for the full list of changes.
   
 ### Extensions!
   #### Default Choices Maker
-    Default player name, gender, and rival name without additional patches. 
+
+  Default player name, gender, and rival name without additional patches. 
   #### Krizz’s Kaizo Tracker Helper
-    Fixes ability tracking
-    Allows favorites system for starting mon
+    
+  Fixes ability tracking
+  Allows favorites system for starting mon
