@@ -6,8 +6,10 @@ Check the releases for the patch/extension downloads. The extension is only expe
 Check the wiki for the full list of changes.
 
 
-HIGHLIGHTS
+__HIGHLIGHTS__
+
 Built in randomizer!
+
 Quick start! 
   Spawn next to mom, talk to her for PC item and warp to lab. 
   Oak gives random mon instead of ball selection.
