@@ -21,13 +21,16 @@ Check the wiki for the full list of changes.
 
 ### Quality of Life!
   “Package skip” by heading left at the end of route 1.
+  
   Hidden items are pre-spawned (and only spawn once).
+  
   Helper Nurses spread around the world to save time running back to centers (disabled if poisoned).
+  
   HMs can be used without teaching move, so no HM buddy needed.
   
 ### Extensions!
-  Default Choices Maker
+  #### Default Choices Maker
     Default player name, gender, and rival name without additional patches. 
-  Krizz’s Kaizo Tracker Helper
+  #### Krizz’s Kaizo Tracker Helper
     Fixes ability tracking
     Allows favorites system for starting mon
