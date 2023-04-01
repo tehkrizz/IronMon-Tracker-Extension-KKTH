@@ -6,26 +6,26 @@ Check the releases for the patch/extension downloads. The extension is only expe
 Check the wiki for the full list of changes.
 
 
-##HIGHLIGHTS
+## HIGHLIGHTS
 
-###Built in randomizer!
+### Built in randomizer!
 
-###Quick start! 
+### Quick start! 
   Spawn next to mom, talk to her for PC item and warp to lab. 
   Oak gives random mon instead of ball selection.
 
-###Rule enforcement!
+### Rule enforcement!
   If your mon faints, the game resets and deletes your save data.
   Cannot leave gyms/dojo once started
   Only TMs are gym rewards
 
-###Quality of Life!
+### Quality of Life!
   “Package skip” by heading left at the end of route 1.
   Hidden items are pre-spawned (and only spawn once).
   Helper Nurses spread around the world to save time running back to centers (disabled if poisoned).
   HMs can be used without teaching move, so no HM buddy needed.
   
-###Extensions!
+### Extensions!
   Default Choices Maker
     Default player name, gender, and rival name without additional patches. 
   Krizz’s Kaizo Tracker Helper
