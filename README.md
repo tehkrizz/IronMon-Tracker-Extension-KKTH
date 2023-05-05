@@ -16,7 +16,9 @@ Check the wiki for the full list of changes.
 
 ### Rule enforcement!
   If your mon faints, the game resets and deletes your save data.
+  
   Cannot leave gyms/dojo once started
+
   Only TMs are gym rewards
 
 ### Quality of Life!
